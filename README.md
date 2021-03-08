@@ -2,7 +2,7 @@
 
 **UPDATE 2021/01/05**
 
-北京地区出现本土病例，本仓库已停止自动 Actions。如果你想自动云填报，请自行修改 `.github/workflows/main.yml`。
+北京地区出现本土病例，本仓库已停止自动 Actions。如果你想自动云填报，请自行修改 `.github/workflows/main.yml`。aadsafassf
 
 **UPDATE 2020/10/18**
 
